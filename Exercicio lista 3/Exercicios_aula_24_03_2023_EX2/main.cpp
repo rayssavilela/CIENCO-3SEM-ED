@@ -18,9 +18,9 @@ typedef struct listaanimal
 
 int main()
 {
-    ListaAnimal cadastro[2];
+    ListaAnimal cadastro[10];
 
-    for(int i = 0; i < 2; i++)
+    for(int i = 0; i < 10; i++)
     {
         cout << "Digite o nome do animal: " << endl;
         getline(cin, cadastro[i].lista.nomeanimal);
@@ -39,7 +39,7 @@ int main()
 
     cout << "Nome" << "\t" << "Especie" << "\t" << "Idade" << "\t" << "Peso" << endl;
 
-    for(int i = 0; i < 2; i++)
+    for(int i = 0; i < 10; i++)
     {
         cout << cadastro[i].lista.nomeanimal << "\t" << cadastro[i].lista.especie << "\t";
         cout << cadastro[i].lista.idadeanimal << "\t" << cadastro[i].lista.pesoanimal << endl;
