@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680305012 source:c:\users\user\documents\rayssa ciência 1º\aula_31_03_2023_etd\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
