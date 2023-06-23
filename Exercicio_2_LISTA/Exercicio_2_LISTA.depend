@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1685755522 source:c:\users\user\documents\rayssa ciência 1º\exercicio_2_lista\main.cpp
-	<iostream>
-	<list>
-	<iterator>
-	<string>
-
