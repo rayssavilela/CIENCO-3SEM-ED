@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685150139 source:c:\users\user\documents\rayssa ciência 1º\ex2_fila\main.cpp
+	<iostream>
+	<queue>
+	<string>
+
